@@ -1,2 +1,2 @@
 # DL---MODELS
-python notebook for difftent dl implementations
+python notebook for different dl implementations
